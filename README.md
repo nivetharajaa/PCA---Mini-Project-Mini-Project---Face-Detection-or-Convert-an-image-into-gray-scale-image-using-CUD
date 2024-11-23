@@ -136,11 +136,14 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 }
 ```
 ### OUTPUT:
+
 Original Image
+
 ![image](https://github.com/user-attachments/assets/b143ce80-aed5-477a-8843-a72d0bb4beea)
 
 
 Grayscale Image
+
 ![image](https://github.com/user-attachments/assets/df36fdcb-81aa-4793-a58b-456677c51453)
 
 
